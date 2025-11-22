@@ -1,2 +1,2 @@
 # juki
-gkhdk
+gkhdk add
